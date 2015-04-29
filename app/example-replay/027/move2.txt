@@ -1,0 +1,1 @@
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.

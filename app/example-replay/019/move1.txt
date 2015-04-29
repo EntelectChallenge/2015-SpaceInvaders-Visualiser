@@ -1,0 +1,1 @@
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.

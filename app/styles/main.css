@@ -1,0 +1,9 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #000;
+}
+
+#phaser canvas {
+	margin: 0 auto;
+}

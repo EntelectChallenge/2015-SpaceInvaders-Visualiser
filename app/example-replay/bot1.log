@@ -1,0 +1,2600 @@
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 0
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 2
+[BOT]		Player 1 Missiles: 0/1
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 2
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:   0      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 0/1   #
+###################
+#                 #
+#       VVV       #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#       AAA       #
+#                 #
+###################
+# Missiles: 0/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   0      #
+# Player 1        #
+###################
+[BOT]	Command: BuildMissileController
+[BOT]	Bot finished in 286 ms.
+[GAME]	Bot Player 1 finished in 396 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 1
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 1
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 1
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:   1      #
+# Kills: 0        #
+# Lives: 1        #
+# Missiles: 0/1   #
+###################
+#                 #
+#       VVV       #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#         x  x  x #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#       AAA       #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 1        #
+# Kills: 0        #
+# Round:   1      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 305 ms.
+[GAME]	Bot Player 1 finished in 391 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 2
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:   2      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#        x  x  x  #
+#                 #
+#        x  x  x  #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#       AAA       #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   2      #
+# Player 1        #
+###################
+[BOT]	Command: MoveRight
+[BOT]	Bot finished in 300 ms.
+[GAME]	Bot Player 1 finished in 381 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 3
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:   3      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#       x  x  x   #
+#                 #
+#       x  x  x   #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   3      #
+# Player 1        #
+###################
+[BOT]	Command: Nothing
+[BOT]	Bot finished in 299 ms.
+[GAME]	Bot Player 1 finished in 370 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 4
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:   4      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   4      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 299 ms.
+[GAME]	Bot Player 1 finished in 377 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 5
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:   5      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   5      #
+# Player 1        #
+###################
+[BOT]	Command: MoveRight
+[BOT]	Bot finished in 300 ms.
+[GAME]	Bot Player 1 finished in 377 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 6
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:   6      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#          |      #
+#    x  x  x      #
+#                 #
+#    x  x  x      #
+#       |         #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   6      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 300 ms.
+[GAME]	Bot Player 1 finished in 384 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 7
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:   7      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#          |      #
+#                 #
+#   x  x  x       #
+#                 #
+#   x  x  x       #
+#                 #
+#       |         #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   7      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 301 ms.
+[GAME]	Bot Player 1 finished in 376 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 8
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:   8      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#          |      #
+#                 #
+#                 #
+#  x  x  x        #
+#                 #
+#  x  x  x        #
+#                 #
+#                 #
+#       |         #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   8      #
+# Player 1        #
+###################
+[BOT]	Command: Nothing
+[BOT]	Bot finished in 300 ms.
+[GAME]	Bot Player 1 finished in 362 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 9
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:   9      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#          |      #
+#                 #
+#                 #
+#                 #
+# x  x  x         #
+#                 #
+# x  x  x         #
+#                 #
+#                 #
+#                 #
+#       |         #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   9      #
+# Player 1        #
+###################
+[BOT]	Command: BuildMissileController
+[BOT]	Bot finished in 289 ms.
+[GAME]	Bot Player 1 finished in 369 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 10
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  10      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#          |      #
+#                 #
+#                 #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#x  x  x          #
+#                 #
+#                 #
+#                 #
+#                 #
+#       |         #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  10      #
+# Player 1        #
+###################
+[BOT]	Command: BuildMissileController
+[BOT]	Bot finished in 377 ms.
+[GAME]	Bot Player 1 finished in 476 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 11
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  11      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---|  --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---    --   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  11      #
+# Player 1        #
+###################
+[BOT]	Command: BuildMissileController
+[BOT]	Bot finished in 537 ms.
+[GAME]	Bot Player 1 finished in 839 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 12
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  12      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   ---   --- #
+# ---   ---|  --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#       |         #
+# x  x  x         #
+#                 #
+#                 #
+#                 #
+# x  x  x         #
+#       |         #
+#                 #
+#                 #
+#                 #
+# ---    --   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  12      #
+# Player 1        #
+###################
+[BOT]	Command: Shoot
+[BOT]	Bot finished in 335 ms.
+[GAME]	Bot Player 1 finished in 431 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 13
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  13      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   - -|  --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#       |         #
+#                 #
+#  x  x  x        #
+#                 #
+#                 #
+#                 #
+#  x  x  x        #
+#                 #
+#       |         #
+#                 #
+#                 #
+# ---    --   --- #
+# ---   ---   --- #
+# ---   ---!  --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  13      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 306 ms.
+[GAME]	Bot Player 1 finished in 388 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 14
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  14      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV|      #
+# ---   - -   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#       |         #
+#                 #
+#                 #
+#   x  x  x       #
+#                 #
+#                 #
+#                 #
+#   x  x  x       #
+#                 #
+#                 #
+#       |         #
+#                 #
+# ---    --   --- #
+# ---   ---!  --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  14      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 298 ms.
+[GAME]	Bot Player 1 finished in 383 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 15
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  15      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX|      #
+#       VVV       #
+# ---   -i-   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#       |         #
+#                 #
+#                 #
+#                 #
+#    x  x  x      #
+#                 #
+#                 #
+#                 #
+#    x  x  x      #
+#                 #
+#                 #
+#                 #
+#       |         #
+# ---    --!  --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  15      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 289 ms.
+[GAME]	Bot Player 1 finished in 359 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 16
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  16      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   - -   --- #
+# ---   - -   --- #
+# ---    --   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+#          !      #
+# ---   |--   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  16      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 303 ms.
+[GAME]	Bot Player 1 finished in 375 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 17
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  17      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#          !      #
+#                 #
+# ---    --   --- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  17      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 297 ms.
+[GAME]	Bot Player 1 finished in 393 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 18
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  18      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --   --- #
+#                 #
+#                 #
+#                 #
+#             |   #
+#       x  x  x   #
+#                 #
+#                 #
+#                 #
+#       x  x  x   #
+#             |   #
+#          !      #
+#                 #
+#                 #
+# ---    --   --- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  18      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 290 ms.
+[GAME]	Bot Player 1 finished in 364 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 19
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  19      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --   --- #
+#                 #
+#                 #
+#             |   #
+#                 #
+#        x  x  x  #
+#                 #
+#                 #
+#                 #
+#        x  x  x  #
+#          !      #
+#             |   #
+#                 #
+#                 #
+# ---    --   --- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  19      #
+# Player 1        #
+###################
+[BOT]	Command: Nothing
+[BOT]	Bot finished in 305 ms.
+[GAME]	Bot Player 1 finished in 376 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 20
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  20      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --   --- #
+#                 #
+#             |   #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#                 #
+#                 #
+#         x! x  x #
+#                 #
+#                 #
+#             |   #
+#                 #
+# ---    --   --- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  20      #
+# Player 1        #
+###################
+[BOT]	Command: MoveRight
+[BOT]	Bot finished in 303 ms.
+[GAME]	Bot Player 1 finished in 378 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 21
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  21      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --   --- #
+#             |   #
+#                 #
+#                 #
+#                 #
+#          x  x  x#
+#                 #
+#                 #
+#          !      #
+#          x  x  x#
+#                 #
+#                 #
+#                 #
+#             |   #
+# ---    --   --- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  21      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 302 ms.
+[GAME]	Bot Player 1 finished in 372 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 22
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  22      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --    -- #
+#                 #
+#                 #
+#                 #
+#          x  x  x#
+#                 #
+#                 #
+#          !      #
+#                 #
+#                 #
+#          x  x  x#
+#                 #
+#                 #
+#                 #
+# ---    --    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  22      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 295 ms.
+[GAME]	Bot Player 1 finished in 367 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 23
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  23      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --    -- #
+#                 #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#            x  x #
+#                 #
+#      x  x  x  x #
+#                 #
+#         x  x  x #
+#                 #
+#                 #
+#                 #
+# ---    --    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  23      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 288 ms.
+[GAME]	Bot Player 1 finished in 375 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 24
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  24      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --    -- #
+#                 #
+#                 #
+#              |  #
+#        x  x  x  #
+#                 #
+#           x  x  #
+#                 #
+#     x  x  x  x  #
+#                 #
+#        x  x  x  #
+#        |        #
+#                 #
+#                 #
+# ---    --    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  24      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 317 ms.
+[GAME]	Bot Player 1 finished in 386 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 25
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  25      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --    -- #
+#                 #
+#              |  #
+#                 #
+#       x  x  x   #
+#                 #
+#          x  x   #
+#                 #
+#    x  x  x  x   #
+#                 #
+#       x  x  x   #
+#                 #
+#        |        #
+#                 #
+# ---    --    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  25      #
+# Player 1        #
+###################
+[BOT]	Command: MoveRight
+[BOT]	Bot finished in 289 ms.
+[GAME]	Bot Player 1 finished in 388 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 26
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  26      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -   i --- #
+# ---   - -   --- #
+# ---    --    -- #
+#              |  #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#         x  x    #
+#                 #
+#   x  x  x  x    #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#        |        #
+# ---    --    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#           AAA   #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  26      #
+# Player 1        #
+###################
+[BOT]	Command: MoveLeft
+[BOT]	Bot finished in 301 ms.
+[GAME]	Bot Player 1 finished in 377 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 27
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  27      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -     --- #
+# ---   - - i --- #
+# ---    --     - #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#        x  x     #
+#                 #
+#  x  x  x  x     #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+# ---     -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  27      #
+# Player 1        #
+###################
+[BOT]	Command: BuildMissileController
+[BOT]	Bot finished in 300 ms.
+[GAME]	Bot Player 1 finished in 405 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 28
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  28      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    -- i   - #
+#                 #
+#                 #
+#                 #
+#    x  x  x      #
+#                 #
+#       x  x      #
+#                 #
+# x  x  x  x      #
+#                 #
+#    x  x  x      #
+#                 #
+#                 #
+#                 #
+# ---     -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  28      #
+# Player 1        #
+###################
+[BOT]	Command: Nothing
+[BOT]	Bot finished in 301 ms.
+[GAME]	Bot Player 1 finished in 404 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 29
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  29      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --     - #
+#           i     #
+#                 #
+#                 #
+#   x  x  x       #
+#                 #
+#      x  x       #
+#                 #
+#x  x  x  x       #
+#                 #
+#   x  x  x       #
+#                 #
+#                 #
+#                 #
+# ---     -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  29      #
+# Player 1        #
+###################
+[BOT]	Command: MoveLeft
+[BOT]	Bot finished in 301 ms.
+[GAME]	Bot Player 1 finished in 373 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 30
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  30      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --     - #
+#                 #
+#           i     #
+#  |              #
+#  x  x  x        #
+#                 #
+#     x  x        #
+#                 #
+#                 #
+#x  x  x  x       #
+#                 #
+#   x  x  x       #
+#   |             #
+#                 #
+# ---     -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  30      #
+# Player 1        #
+###################
+[BOT]	Command: Shoot
+[BOT]	Bot finished in 292 ms.
+[GAME]	Bot Player 1 finished in 369 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 31
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  31      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --     - #
+#                 #
+#  |              #
+#           i     #
+# x  x  x         #
+#                 #
+#    x  x         #
+#                 #
+#                 #
+# x  x  x  x      #
+#                 #
+#    x  x  x      #
+#                 #
+#   |             #
+# ---     -    -- #
+# ---    --   --- #
+# ---   ---!  --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  31      #
+# Player 1        #
+###################
+[BOT]	Command: Shoot
+[BOT]	Bot finished in 299 ms.
+[GAME]	Bot Player 1 finished in 372 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 32
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 2/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  32      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --     - #
+#  |              #
+#                 #
+#                 #
+#x  x  x    i     #
+#                 #
+#   x  x          #
+#                 #
+#                 #
+#  x  x  x  x     #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+# --      -    -- #
+# ---    --!  --- #
+# ---   ---!  --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 2/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  32      #
+# Player 1        #
+###################
+[BOT]	Command: Nothing
+[BOT]	Bot finished in 306 ms.
+[GAME]	Bot Player 1 finished in 390 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 33
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 2/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  33      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    --     - #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#   x  x    i     #
+#                 #
+#                 #
+#                 #
+#   x  x  x  x    #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+# --      -!   -- #
+# ---    --!  --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 2/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  33      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 297 ms.
+[GAME]	Bot Player 1 finished in 370 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 34
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 2/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  34      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    --     - #
+#                 #
+#                 #
+# x  x  x         #
+#                 #
+#    x  x         #
+#           i     #
+#                 #
+#                 #
+#    x  x  x  x   #
+#                 #
+#       x  x  x   #
+#                 #
+#          !      #
+# --      -!   -- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 2/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  34      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 300 ms.
+[GAME]	Bot Player 1 finished in 364 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 35
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 2/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  35      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    --     - #
+#                 #
+#                 #
+#  x  x  x        #
+#                 #
+#     x  x        #
+#                 #
+#           i     #
+#                 #
+#     x  x  x  x  #
+#                 #
+#        x  x  x  #
+#          !      #
+#          !      #
+# --      -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 2/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  35      #
+# Player 1        #
+###################
+[BOT]	Command: MoveLeft
+[BOT]	Bot finished in 305 ms.
+[GAME]	Bot Player 1 finished in 386 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 36
+[BOT]		Player 1 Kills: 0
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 2/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  36      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    --     - #
+#                 #
+#         |       #
+#   x  x  x       #
+#                 #
+#      x  x       #
+#                 #
+#                 #
+#           i     #
+#      x  x  x  x #
+#                 #
+#         x! x  x #
+#         |!      #
+#                 #
+# --      -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 2/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  36      #
+# Player 1        #
+###################
+[BOT]	Command: Shoot
+[BOT]	Bot finished in 300 ms.
+[GAME]	Bot Player 1 finished in 375 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 37
+[BOT]		Player 1 Kills: 1
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 1/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  37      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    --     - #
+#         |       #
+#                 #
+#    x  x  x      #
+#                 #
+#       x  x      #
+#                 #
+#                 #
+#                 #
+#       x  xi x  x#
+#          !      #
+#             x  x#
+#                 #
+#         |       #
+# --      -    -- #
+# ---    --   --- #
+# ---   --    --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  37      #
+# Player 1        #
+###################
+[BOT]	Command: BuildMissileController
+[BOT]	Bot finished in 293 ms.
+[GAME]	Bot Player 1 finished in 370 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 38
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  38      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#           VVV   #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#        x  x     #
+#                 #
+#                 #
+#                 #
+#                 #
+#       x   i x  x#
+#                 #
+#             x  x#
+#                 #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  38      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 299 ms.
+[GAME]	Bot Player 1 finished in 375 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 39
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  39      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#            VVV  #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#         x  x    #
+#                 #
+#                 #
+#      x  x  x  x #
+#                 #
+#      x     x  x #
+#           i     #
+#            x  x #
+#                 #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  39      #
+# Player 1        #
+###################
+[BOT]	Command: MoveLeft
+[BOT]	Bot finished in 292 ms.
+[GAME]	Bot Player 1 finished in 368 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 40
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  40      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#            VVV  #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#                 #
+#       x  x  x   #
+#                 #
+#          x  x   #
+#                 #
+#                 #
+#     x  x  x  x  #
+#                 #
+#     x     x  x  #
+#                 #
+#              x  #
+#                 #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#       AAA       #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  40      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 297 ms.
+[GAME]	Bot Player 1 finished in 384 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 41
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  41      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#            VVV  #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#                 #
+#        x  x  x  #
+#                 #
+#           x  x  #
+#                 #
+#                 #
+#    x  x  x  x   #
+#                 #
+#    x     x  x   #
+#                 #
+#             x   #
+#                 #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#       AAA       #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  41      #
+# Player 1        #
+###################
+[BOT]	Command: MoveLeft
+[BOT]	Bot finished in 299 ms.
+[GAME]	Bot Player 1 finished in 366 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 42
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  42      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#            VVV  #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#            |    #
+#         x  x  x #
+#                 #
+#            x  x #
+#                 #
+#                 #
+#   x  x  x  x    #
+#                 #
+#   x     x  x    #
+#                 #
+#            x    #
+#            |    #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  42      #
+# Player 1        #
+###################
+[BOT]	Command: Nothing
+[BOT]	Bot finished in 290 ms.
+[GAME]	Bot Player 1 finished in 362 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 43
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  43      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#            VVV  #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#            |    #
+#                 #
+#          x  x  x#
+#                 #
+#             x  x#
+#                 #
+#                 #
+#  x  x  x  x     #
+#                 #
+#  x     x  x     #
+#                 #
+#           x     #
+#                 #
+# --         | -- #
+# ---    --   --- #
+# ---   --    --- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  43      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 294 ms.
+[GAME]	Bot Player 1 finished in 403 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 44
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  44      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#           VVV   #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -   |  - #
+#                 #
+#          x  x  x#
+#                 #
+#             x  x#
+#                 #
+#                 #
+#                 #
+# x  x  x  x      #
+#                 #
+# x     x  x      #
+#                 #
+#          x      #
+#                 #
+# --           -- #
+# ---    --  |--- #
+# ---   --    --- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  44      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 293 ms.
+[GAME]	Bot Player 1 finished in 385 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 45
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  45      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#           VVV   #
+# ---   -    i -- #
+# ---   - -  |--- #
+# - -    -      - #
+#                 #
+#         x  x  x #
+#                 #
+#            x  x #
+#                 #
+#      x  x  x  x #
+#                 #
+#x  x  x  x       #
+#                 #
+#x     x  x       #
+#                 #
+#         x       #
+#                 #
+# --           -- #
+# ---    --   --- #
+# ---   --   |--- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  45      #
+# Player 1        #
+###################
+[BOT]	Command: BuildMissileController
+[BOT]	Bot finished in 297 ms.
+[GAME]	Bot Player 1 finished in 363 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 46
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  46      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#        x  x  x  #
+#                 #
+#           x  x  #
+#                 #
+#     x  x  x  x  #
+#                 #
+#                 #
+#x  x  x  x       #
+#                 #
+#x     x  x       #
+#                 #
+#         x       #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#      AAA   |    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  46      #
+# Player 1        #
+###################
+[BOT]	Command: Shoot
+[BOT]	Bot finished in 315 ms.
+[GAME]	Bot Player 1 finished in 384 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 47
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 0/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  47      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#       x  x  x   #
+#                 #
+#          x  x   #
+#                 #
+#    x  x  x  x   #
+#                 #
+#                 #
+# x  x  x  x      #
+#                 #
+# x     x  x      #
+#                 #
+#          x      #
+# --           -- #
+# ---    --   --- #
+# ---    -    --- #
+#      AAA        #
+#       MMM  |    #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  47      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 296 ms.
+[GAME]	Bot Player 1 finished in 405 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 48
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  48      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -   i  -- #
+# ---   - -   --- #
+# - -    -      - #
+#            |    #
+#      x  x  x    #
+#                 #
+#         x  x    #
+#                 #
+#   x  x  x  x    #
+#                 #
+#                 #
+#  x  x  x  x     #
+#                 #
+#  x     x  x     #
+#                 #
+#           x     #
+# --        |  -- #
+# ---    --   --- #
+# ---    -    --- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  48      #
+# Player 1        #
+###################
+[BOT]	Command: BuildShield
+[BOT]	Bot finished in 292 ms.
+[GAME]	Bot Player 1 finished in 362 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 49
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  49      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -      -- #
+# ---   - - i --- #
+# - -    -   |  - #
+#                 #
+#     x  x  x     #
+#                 #
+#        x  x     #
+#                 #
+#  x  x  x  x     #
+#                 #
+#                 #
+#   x  x  x  x    #
+#                 #
+#   x     x  x    #
+#                 #
+#            x    #
+# --           -- #
+# ---    -- | --- #
+# ---    -    --- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  49      #
+# Player 1        #
+###################
+[BOT]	Command: MoveLeft
+[BOT]	Bot finished in 299 ms.
+[GAME]	Bot Player 1 finished in 381 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 50
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  50      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -      -- #
+# ---   - -  |--- #
+# - -    -  i   - #
+#                 #
+#    x  x  x      #
+#                 #
+#       x  x      #
+#                 #
+# x  x  x  x      #
+#                 #
+#                 #
+#    x  x  x  x   #
+#                 #
+#    x     x  x   #
+#                 #
+#             x   #
+# --           -- #
+# ---    --   --- #
+# ---    -  | --- #
+#     AAA         #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  50      #
+# Player 1        #
+###################
+[BOT]	Command: MoveRight
+[BOT]	Bot finished in 292 ms.
+[GAME]	Bot Player 1 finished in 370 ms.
+[92mC:\Dev\100K\bin\2015-TestHarness-1.0.1-Windows\player1[90m>[m BasicBot.exe "output" 
+[BOT]	Game state:
+[BOT]		Round Number: 51
+[BOT]		Player 1 Kills: 2
+[BOT]		Player 1 Lives: 0
+[BOT]		Player 1 Missiles: 0/2
+[BOT]		Player 2 Kills: 0
+[BOT]		Player 2 Lives: 0
+[BOT]		Player 2 Missiles: 1/1
+[BOT]	Map:
+###################
+# Player 2        #
+# Round:  51      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -    | -- #
+# ---   - -   --- #
+# - -    -      - #
+#           i     #
+#   x  x  x       #
+#                 #
+#      x  x       #
+#                 #
+#x  x  x  x       #
+#                 #
+#                 #
+#     x  x  x  x  #
+#                 #
+#     x     x  x  #
+#                 #
+#              x  #
+# --           -- #
+# ---    --   --- #
+# ---    -    --- #
+#      AAA  |     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  51      #
+# Player 1        #
+###################
+[BOT]	Command: BuildAlienFactory
+[BOT]	Bot finished in 307 ms.
+[GAME]	Bot Player 1 finished in 387 ms.

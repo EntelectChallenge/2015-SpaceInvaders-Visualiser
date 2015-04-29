@@ -1,0 +1,2228 @@
+
+Round 0
+###################
+# Player 2        #
+# Round:   0      #
+# Kills: 0        #
+# Lives: 2        #
+# Missiles: 0/1   #
+###################
+#                 #
+#       VVV       #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#       AAA       #
+#                 #
+###################
+# Missiles: 0/1   #
+# Lives: 2        #
+# Kills: 0        #
+# Round:   0      #
+# Player 1        #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: Nothing              > Did nothing.
+
+Round 1
+###################
+# Player 2        #
+# Round:   1      #
+# Kills: 0        #
+# Lives: 1        #
+# Missiles: 0/1   #
+###################
+#                 #
+#       VVV       #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#         x  x  x #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---         --- #
+# ---         --- #
+# ---         --- #
+#       AAA       #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 1        #
+# Kills: 0        #
+# Round:   1      #
+# Player 1        #
+###################
+
+Player 1: BuildMissileController > Building a building.
+Player 2: BuildShield          > Built shields.
+
+Round 2
+###################
+# Player 2        #
+# Round:   2      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#        x  x  x  #
+#                 #
+#        x  x  x  #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#       AAA       #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   2      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Built shields.
+Player 2: BuildAlienFactory    > Building a building.
+
+Round 3
+###################
+# Player 2        #
+# Round:   3      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#       x  x  x   #
+#                 #
+#       x  x  x   #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   3      #
+# Player 1        #
+###################
+
+Player 1: MoveRight            > Moved right.
+Player 2: MoveRight            > Moved right.
+
+Round 4
+###################
+# Player 2        #
+# Round:   4      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   4      #
+# Player 1        #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 5
+###################
+# Player 2        #
+# Round:   5      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   5      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.
+
+Round 6
+###################
+# Player 2        #
+# Round:   6      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#          |      #
+#    x  x  x      #
+#                 #
+#    x  x  x      #
+#       |         #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   6      #
+# Player 1        #
+###################
+
+Player 1: MoveRight            > Moved right.
+Player 2: Nothing              > Did nothing.
+
+Round 7
+###################
+# Player 2        #
+# Round:   7      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#          |      #
+#                 #
+#   x  x  x       #
+#                 #
+#   x  x  x       #
+#                 #
+#       |         #
+#                 #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   7      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: MoveLeft             > Moved left.
+
+Round 8
+###################
+# Player 2        #
+# Round:   8      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#          |      #
+#                 #
+#                 #
+#  x  x  x        #
+#                 #
+#  x  x  x        #
+#                 #
+#                 #
+#       |         #
+#                 #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   8      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: Nothing              > Did nothing.
+
+Round 9
+###################
+# Player 2        #
+# Round:   9      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#          |      #
+#                 #
+#                 #
+#                 #
+# x  x  x         #
+#                 #
+# x  x  x         #
+#                 #
+#                 #
+#                 #
+#       |         #
+#                 #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:   9      #
+# Player 1        #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: MoveRight            > Moved right.
+
+Round 10
+###################
+# Player 2        #
+# Round:  10      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#          |      #
+#                 #
+#                 #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#x  x  x          #
+#                 #
+#                 #
+#                 #
+#                 #
+#       |         #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  10      #
+# Player 1        #
+###################
+
+Player 1: BuildMissileController > Tried to build a building, but already had one.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 11
+###################
+# Player 2        #
+# Round:  11      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#      VVV        #
+# ---   ---   --- #
+# ---   ---   --- #
+# ---   ---|  --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#                 #
+#                 #
+#                 #
+# ---    --   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  11      #
+# Player 1        #
+###################
+
+Player 1: BuildMissileController > Tried to build a building, but already had one.
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.
+
+Round 12
+###################
+# Player 2        #
+# Round:  12      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   ---   --- #
+# ---   ---|  --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#                 #
+#       |         #
+# x  x  x         #
+#                 #
+#                 #
+#                 #
+# x  x  x         #
+#       |         #
+#                 #
+#                 #
+#                 #
+# ---    --   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  12      #
+# Player 1        #
+###################
+
+Player 1: BuildMissileController > Tried to build a building, but already had one.
+Player 2: MoveLeft             > Moved left.
+
+Round 13
+###################
+# Player 2        #
+# Round:  13      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   - -|  --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#                 #
+#       |         #
+#                 #
+#  x  x  x        #
+#                 #
+#                 #
+#                 #
+#  x  x  x        #
+#                 #
+#       |         #
+#                 #
+#                 #
+# ---    --   --- #
+# ---   ---   --- #
+# ---   ---!  --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  13      #
+# Player 1        #
+###################
+
+Player 1: Shoot                > Fired a missile.
+Player 2: Shoot                > Fired a missile.
+
+Round 14
+###################
+# Player 2        #
+# Round:  14      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV|      #
+# ---   - -   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#                 #
+#       |         #
+#                 #
+#                 #
+#   x  x  x       #
+#                 #
+#                 #
+#                 #
+#   x  x  x       #
+#                 #
+#                 #
+#       |         #
+#                 #
+# ---    --   --- #
+# ---   ---!  --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  14      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 15
+###################
+# Player 2        #
+# Round:  15      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX|      #
+#       VVV       #
+# ---   -i-   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#       |         #
+#                 #
+#                 #
+#                 #
+#    x  x  x      #
+#                 #
+#                 #
+#                 #
+#    x  x  x      #
+#                 #
+#                 #
+#                 #
+#       |         #
+# ---    --!  --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  15      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: Shoot                > Fired a missile.
+
+Round 16
+###################
+# Player 2        #
+# Round:  16      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   - -   --- #
+# ---   - -   --- #
+# ---    --   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+#          !      #
+# ---   |--   --- #
+# ---   ---   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  16      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: MoveLeft             > Moved left.
+
+Round 17
+###################
+# Player 2        #
+# Round:  17      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --   --- #
+#                 #
+#                 #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#          !      #
+#                 #
+# ---    --   --- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  17      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: Shoot                > Fired a missile.
+
+Round 18
+###################
+# Player 2        #
+# Round:  18      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --   --- #
+#                 #
+#                 #
+#                 #
+#             |   #
+#       x  x  x   #
+#                 #
+#                 #
+#                 #
+#       x  x  x   #
+#             |   #
+#          !      #
+#                 #
+#                 #
+# ---    --   --- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  18      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 19
+###################
+# Player 2        #
+# Round:  19      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#       VVV       #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --   --- #
+#                 #
+#                 #
+#             |   #
+#                 #
+#        x  x  x  #
+#                 #
+#                 #
+#                 #
+#        x  x  x  #
+#          !      #
+#             |   #
+#                 #
+#                 #
+# ---    --   --- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  19      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: MoveRight            > Moved right.
+
+Round 20
+###################
+# Player 2        #
+# Round:  20      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --   --- #
+#                 #
+#             |   #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#                 #
+#                 #
+#         x! x  x #
+#                 #
+#                 #
+#             |   #
+#                 #
+# ---    --   --- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  20      #
+# Player 1        #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: MoveLeft             > Moved left.
+
+Round 21
+###################
+# Player 2        #
+# Round:  21      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --   --- #
+#             |   #
+#                 #
+#                 #
+#                 #
+#          x  x  x#
+#                 #
+#                 #
+#          !      #
+#          x  x  x#
+#                 #
+#                 #
+#                 #
+#             |   #
+# ---    --   --- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  21      #
+# Player 1        #
+###################
+
+Player 1: MoveRight            > Moved right.
+Player 2: BuildShield          > Tried to build shields but didn't have enough lives.
+
+Round 22
+###################
+# Player 2        #
+# Round:  22      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#        VVV      #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --    -- #
+#                 #
+#                 #
+#                 #
+#          x  x  x#
+#                 #
+#                 #
+#          !      #
+#                 #
+#                 #
+#          x  x  x#
+#                 #
+#                 #
+#                 #
+# ---    --    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  22      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: BuildShield          > Tried to build shields but didn't have enough lives.
+
+Round 23
+###################
+# Player 2        #
+# Round:  23      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --    -- #
+#                 #
+#                 #
+#                 #
+#         x  x  x #
+#                 #
+#            x  x #
+#                 #
+#      x  x  x  x #
+#                 #
+#         x  x  x #
+#                 #
+#                 #
+#                 #
+# ---    --    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  23      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: MoveLeft             > Moved left.
+
+Round 24
+###################
+# Player 2        #
+# Round:  24      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --    -- #
+#                 #
+#                 #
+#              |  #
+#        x  x  x  #
+#                 #
+#           x  x  #
+#                 #
+#     x  x  x  x  #
+#                 #
+#        x  x  x  #
+#        |        #
+#                 #
+#                 #
+# ---    --    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  24      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: Nothing              > Did nothing.
+
+Round 25
+###################
+# Player 2        #
+# Round:  25      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --    -- #
+#                 #
+#              |  #
+#                 #
+#       x  x  x   #
+#                 #
+#          x  x   #
+#                 #
+#    x  x  x  x   #
+#                 #
+#       x  x  x   #
+#                 #
+#        |        #
+#                 #
+# ---    --    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  25      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: MoveLeft             > Moved left.
+
+Round 26
+###################
+# Player 2        #
+# Round:  26      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -   i --- #
+# ---   - -   --- #
+# ---    --    -- #
+#              |  #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#         x  x    #
+#                 #
+#   x  x  x  x    #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+#        |        #
+# ---    --    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#           AAA   #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  26      #
+# Player 1        #
+###################
+
+Player 1: MoveRight            > Moved right.
+Player 2: Shoot                > Fired a missile.
+
+Round 27
+###################
+# Player 2        #
+# Round:  27      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -     --- #
+# ---   - - i --- #
+# ---    --     - #
+#                 #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#        x  x     #
+#                 #
+#  x  x  x  x     #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+#                 #
+# ---     -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  27      #
+# Player 1        #
+###################
+
+Player 1: MoveLeft             > Moved left.
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.
+
+Round 28
+###################
+# Player 2        #
+# Round:  28      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    -- i   - #
+#                 #
+#                 #
+#                 #
+#    x  x  x      #
+#                 #
+#       x  x      #
+#                 #
+# x  x  x  x      #
+#                 #
+#    x  x  x      #
+#                 #
+#                 #
+#                 #
+# ---     -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  28      #
+# Player 1        #
+###################
+
+Player 1: BuildMissileController > Tried to build a building, but already had one.
+Player 2: MoveRight            > Moved right.
+
+Round 29
+###################
+# Player 2        #
+# Round:  29      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --     - #
+#           i     #
+#                 #
+#                 #
+#   x  x  x       #
+#                 #
+#      x  x       #
+#                 #
+#x  x  x  x       #
+#                 #
+#   x  x  x       #
+#                 #
+#                 #
+#                 #
+# ---     -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#          AAA    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  29      #
+# Player 1        #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: Shoot                > Shot failed - too many missiles in flight.
+
+Round 30
+###################
+# Player 2        #
+# Round:  30      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --     - #
+#                 #
+#           i     #
+#  |              #
+#  x  x  x        #
+#                 #
+#     x  x        #
+#                 #
+#                 #
+#x  x  x  x       #
+#                 #
+#   x  x  x       #
+#   |             #
+#                 #
+# ---     -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  30      #
+# Player 1        #
+###################
+
+Player 1: MoveLeft             > Moved left.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 31
+###################
+# Player 2        #
+# Round:  31      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --     - #
+#                 #
+#  |              #
+#           i     #
+# x  x  x         #
+#                 #
+#    x  x         #
+#                 #
+#                 #
+# x  x  x  x      #
+#                 #
+#    x  x  x      #
+#                 #
+#   |             #
+# ---     -    -- #
+# ---    --   --- #
+# ---   ---!  --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  31      #
+# Player 1        #
+###################
+
+Player 1: Shoot                > Fired a missile.
+Player 2: Nothing              > Did nothing.
+
+Round 32
+###################
+# Player 2        #
+# Round:  32      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# ---    --     - #
+#  |              #
+#                 #
+#                 #
+#x  x  x    i     #
+#                 #
+#   x  x          #
+#                 #
+#                 #
+#  x  x  x  x     #
+#                 #
+#     x  x  x     #
+#                 #
+#                 #
+# --      -    -- #
+# ---    --!  --- #
+# ---   ---!  --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 2/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  32      #
+# Player 1        #
+###################
+
+Player 1: Shoot                > Fired a missile.
+Player 2: BuildShield          > Tried to build shields but didn't have enough lives.
+
+Round 33
+###################
+# Player 2        #
+# Round:  33      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    --     - #
+#                 #
+#                 #
+#x  x  x          #
+#                 #
+#   x  x    i     #
+#                 #
+#                 #
+#                 #
+#   x  x  x  x    #
+#                 #
+#      x  x  x    #
+#                 #
+#                 #
+# --      -!   -- #
+# ---    --!  --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 2/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  33      #
+# Player 1        #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: Nothing              > Did nothing.
+
+Round 34
+###################
+# Player 2        #
+# Round:  34      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#         VVV     #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    --     - #
+#                 #
+#                 #
+# x  x  x         #
+#                 #
+#    x  x         #
+#           i     #
+#                 #
+#                 #
+#    x  x  x  x   #
+#                 #
+#       x  x  x   #
+#                 #
+#          !      #
+# --      -!   -- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 2/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  34      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.
+
+Round 35
+###################
+# Player 2        #
+# Round:  35      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    --     - #
+#                 #
+#                 #
+#  x  x  x        #
+#                 #
+#     x  x        #
+#                 #
+#           i     #
+#                 #
+#     x  x  x  x  #
+#                 #
+#        x  x  x  #
+#          !      #
+#          !      #
+# --      -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#         AAA     #
+#       MMM       #
+###################
+# Missiles: 2/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  35      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: MoveLeft             > Moved left.
+
+Round 36
+###################
+# Player 2        #
+# Round:  36      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    --     - #
+#                 #
+#         |       #
+#   x  x  x       #
+#                 #
+#      x  x       #
+#                 #
+#                 #
+#           i     #
+#      x  x  x  x #
+#                 #
+#         x! x  x #
+#         |!      #
+#                 #
+# --      -    -- #
+# ---    --   --- #
+# ---   ---   --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 2/2   #
+# Lives: 0        #
+# Kills: 0        #
+# Round:  36      #
+# Player 1        #
+###################
+
+Player 1: MoveLeft             > Moved left.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 37
+###################
+# Player 2        #
+# Round:  37      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    --     - #
+#         |       #
+#                 #
+#    x  x  x      #
+#                 #
+#       x  x      #
+#                 #
+#                 #
+#                 #
+#       x  xi x  x#
+#          !      #
+#             x  x#
+#                 #
+#         |       #
+# --      -    -- #
+# ---    --   --- #
+# ---   --    --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 1/2   #
+# Lives: 0        #
+# Kills: 1        #
+# Round:  37      #
+# Player 1        #
+###################
+
+Player 1: Shoot                > Fired a missile.
+Player 2: BuildShield          > Tried to build shields but didn't have enough lives.
+
+Round 38
+###################
+# Player 2        #
+# Round:  38      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#           VVV   #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#                 #
+#     x  x  x     #
+#                 #
+#        x  x     #
+#                 #
+#                 #
+#                 #
+#                 #
+#       x   i x  x#
+#                 #
+#             x  x#
+#                 #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  38      #
+# Player 1        #
+###################
+
+Player 1: BuildMissileController > Tried to build a building, but already had one.
+Player 2: MoveLeft             > Moved left.
+
+Round 39
+###################
+# Player 2        #
+# Round:  39      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#            VVV  #
+# ---   -     --- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#                 #
+#      x  x  x    #
+#                 #
+#         x  x    #
+#                 #
+#                 #
+#      x  x  x  x #
+#                 #
+#      x     x  x #
+#           i     #
+#            x  x #
+#                 #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#        AAA      #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  39      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: MoveLeft             > Moved left.
+
+Round 40
+###################
+# Player 2        #
+# Round:  40      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#            VVV  #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#                 #
+#       x  x  x   #
+#                 #
+#          x  x   #
+#                 #
+#                 #
+#     x  x  x  x  #
+#                 #
+#     x     x  x  #
+#                 #
+#              x  #
+#                 #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#       AAA       #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  40      #
+# Player 1        #
+###################
+
+Player 1: MoveLeft             > Moved left.
+Player 2: Shoot                > Fired a missile.
+
+Round 41
+###################
+# Player 2        #
+# Round:  41      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#            VVV  #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#                 #
+#        x  x  x  #
+#                 #
+#           x  x  #
+#                 #
+#                 #
+#    x  x  x  x   #
+#                 #
+#    x     x  x   #
+#                 #
+#             x   #
+#                 #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#       AAA       #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  41      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 42
+###################
+# Player 2        #
+# Round:  42      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#            VVV  #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#            |    #
+#         x  x  x #
+#                 #
+#            x  x #
+#                 #
+#                 #
+#   x  x  x  x    #
+#                 #
+#   x     x  x    #
+#                 #
+#            x    #
+#            |    #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  42      #
+# Player 1        #
+###################
+
+Player 1: MoveLeft             > Moved left.
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.
+
+Round 43
+###################
+# Player 2        #
+# Round:  43      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#            VVV  #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#            |    #
+#                 #
+#          x  x  x#
+#                 #
+#             x  x#
+#                 #
+#                 #
+#  x  x  x  x     #
+#                 #
+#  x     x  x     #
+#                 #
+#           x     #
+#                 #
+# --         | -- #
+# ---    --   --- #
+# ---   --    --- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  43      #
+# Player 1        #
+###################
+
+Player 1: Nothing              > Did nothing.
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.
+
+Round 44
+###################
+# Player 2        #
+# Round:  44      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#           VVV   #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -   |  - #
+#                 #
+#          x  x  x#
+#                 #
+#             x  x#
+#                 #
+#                 #
+#                 #
+# x  x  x  x      #
+#                 #
+# x     x  x      #
+#                 #
+#          x      #
+#                 #
+# --           -- #
+# ---    --  |--- #
+# ---   --    --- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  44      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: MoveRight            > Moved right.
+
+Round 45
+###################
+# Player 2        #
+# Round:  45      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#           VVV   #
+# ---   -    i -- #
+# ---   - -  |--- #
+# - -    -      - #
+#                 #
+#         x  x  x #
+#                 #
+#            x  x #
+#                 #
+#      x  x  x  x #
+#                 #
+#x  x  x  x       #
+#                 #
+#x     x  x       #
+#                 #
+#         x       #
+#                 #
+# --           -- #
+# ---    --   --- #
+# ---   --   |--- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  45      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: Shoot                > Fired a missile.
+
+Round 46
+###################
+# Player 2        #
+# Round:  46      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#        x  x  x  #
+#                 #
+#           x  x  #
+#                 #
+#     x  x  x  x  #
+#                 #
+#                 #
+#x  x  x  x       #
+#                 #
+#x     x  x       #
+#                 #
+#         x       #
+# --           -- #
+# ---    --   --- #
+# ---   --    --- #
+#      AAA   |    #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  46      #
+# Player 1        #
+###################
+
+Player 1: BuildMissileController > Tried to build a building, but already had one.
+Player 2: MoveRight            > Moved right.
+
+Round 47
+###################
+# Player 2        #
+# Round:  47      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 0/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#                 #
+#       x  x  x   #
+#                 #
+#          x  x   #
+#                 #
+#    x  x  x  x   #
+#                 #
+#                 #
+# x  x  x  x      #
+#                 #
+# x     x  x      #
+#                 #
+#          x      #
+# --           -- #
+# ---    --   --- #
+# ---    -    --- #
+#      AAA        #
+#       MMM  |    #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  47      #
+# Player 1        #
+###################
+
+Player 1: Shoot                > Fired a missile.
+Player 2: BuildAlienFactory    > Tried to build a building, but already had one.
+
+Round 48
+###################
+# Player 2        #
+# Round:  48      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -   i  -- #
+# ---   - -   --- #
+# - -    -      - #
+#            |    #
+#      x  x  x    #
+#                 #
+#         x  x    #
+#                 #
+#   x  x  x  x    #
+#                 #
+#                 #
+#  x  x  x  x     #
+#                 #
+#  x     x  x     #
+#                 #
+#           x     #
+# --        |  -- #
+# ---    --   --- #
+# ---    -    --- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  48      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: Shoot                > Fired a missile.
+
+Round 49
+###################
+# Player 2        #
+# Round:  49      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -      -- #
+# ---   - - i --- #
+# - -    -   |  - #
+#                 #
+#     x  x  x     #
+#                 #
+#        x  x     #
+#                 #
+#  x  x  x  x     #
+#                 #
+#                 #
+#   x  x  x  x    #
+#                 #
+#   x     x  x    #
+#                 #
+#            x    #
+# --           -- #
+# ---    -- | --- #
+# ---    -    --- #
+#      AAA        #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  49      #
+# Player 1        #
+###################
+
+Player 1: BuildShield          > Tried to build shields but didn't have enough lives.
+Player 2: Shoot                > Shot failed - too many missiles in flight.
+
+Round 50
+###################
+# Player 2        #
+# Round:  50      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -      -- #
+# ---   - -  |--- #
+# - -    -  i   - #
+#                 #
+#    x  x  x      #
+#                 #
+#       x  x      #
+#                 #
+# x  x  x  x      #
+#                 #
+#                 #
+#    x  x  x  x   #
+#                 #
+#    x     x  x   #
+#                 #
+#             x   #
+# --           -- #
+# ---    --   --- #
+# ---    -  | --- #
+#     AAA         #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  50      #
+# Player 1        #
+###################
+
+Player 1: MoveLeft             > Moved left.
+Player 2: BuildMissileController > Tried to build a building but didn't have enough lives.
+
+Round 51
+###################
+# Player 2        #
+# Round:  51      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#          VVV    #
+# ---   -    | -- #
+# ---   - -   --- #
+# - -    -      - #
+#           i     #
+#   x  x  x       #
+#                 #
+#      x  x       #
+#                 #
+#x  x  x  x       #
+#                 #
+#                 #
+#     x  x  x  x  #
+#                 #
+#     x     x  x  #
+#                 #
+#              x  #
+# --           -- #
+# ---    --   --- #
+# ---    -    --- #
+#      AAA  |     #
+#       MMM       #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  51      #
+# Player 1        #
+###################
+
+Player 1: MoveRight            > Moved right.
+Player 2: Shoot                > Shot failed - too many missiles in flight.
+
+Round 52
+###################
+# Player 2        #
+# Round:  52      #
+# Kills: 0        #
+# Lives: 0        #
+# Missiles: 1/1   #
+###################
+#       XXX       #
+#                 #
+# ---   -      -- #
+# ---   - -   --- #
+# - -    -      - #
+#   x  x  x       #
+#           i     #
+#      x  x       #
+#                 #
+#x  x  x  x       #
+#                 #
+#                 #
+#                 #
+#      x  x  x  x #
+#                 #
+#      x     x  x #
+#                 #
+#               x #
+# --           -- #
+# ---    --   --- #
+# ---    -    --- #
+#      AAA        #
+#       MMM |     #
+###################
+# Missiles: 0/2   #
+# Lives: 0        #
+# Kills: 2        #
+# Round:  52      #
+# Player 1        #
+###################
+
+Player 1: BuildAlienFactory    > Tried to build a building but didn't have enough lives.
+Player 2: Nothing              > Ship is respawning.
+Match result: Player 1 wins
+Win reason: Player 2 ran out of lives.
