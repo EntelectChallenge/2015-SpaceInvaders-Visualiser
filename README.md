@@ -15,3 +15,9 @@ In your Git Bash command line, from the project directory, execute the following
 * `npm install`
 * `bower install`
 * `gulp serve`
+
+## Run a different replay
+* Replace the example-replay folder OR change the path in main.js
+* Change the number of iterations in main.js
+
+This will form part of the player dashboard. The path and iterations parameters will be provided by a backend. To run this standalone, you will need to change the parameters in main.js
